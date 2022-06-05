@@ -3,7 +3,7 @@ import { Environment } from '@abp/ng.core';
 const baseUrl = 'https://frolicking-sopapillas-559458.netlify.app';
 
 export const environment = {
-  production: false,
+  production: true,
   application: {
     baseUrl,
     name: 'BookStore',
