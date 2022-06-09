@@ -1,6 +1,6 @@
 import { Environment } from '@abp/ng.core';
 
-const baseUrl = 'https://bandon-akmad-taher.netlify.app';
+const baseUrl = 'https://faiza.netlify.app';
 
 export const environment = {
   production: true,
